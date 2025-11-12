@@ -1,13 +1,13 @@
-**Retail Sales Forecasting Prediction**
+# Retail Sales Forecasting Prediction
 
 This project forecasts weekly retail sales using Python and machine learning techniques.
 It was completed as part of **The Build Fellowship (Sept–Oct 2025)** under the mentorship of **Nicholas Yuwono**.
 
-**Project Overview**
+# Project Overview
 
 The goal of this project was to build a predictive model that helps retailers understand sales trends, plan inventory, and make better data-driven business decisions.
 
-**What I Built**
+# What I Built
 
 * Developed a linear regression model in Python using scikit-learn, achieving ~83% prediction accuracy
 
@@ -17,7 +17,7 @@ The goal of this project was to build a predictive model that helps retailers un
 
 * Performed exploratory data analysis (EDA) to uncover key drivers of weekly sales
 
-**Tools and Techniques**
+# Tools and Techniques
 
 * Python, Pandas, NumPy
 
@@ -27,9 +27,9 @@ The goal of this project was to build a predictive model that helps retailers un
 
 * Google Colab
 
-**Results**
+# Results
 
-* Achieved **83% accuracy(( on weekly sales forecasting
+* Achieved **83% accuracy** on weekly sales forecasting
 
 * Improved model performance using lag-based feature engineering
 
