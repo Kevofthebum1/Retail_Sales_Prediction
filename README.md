@@ -20,15 +20,15 @@ The dataset was downloaded programmatically using ```kaggle```.
 
 # 1. Exploratory Data Analysis
 
-**A. Sales Data Visualization
+**A. Sales Data Visualization**
 
-Bar Chart: Holiday vs Non-Holiday Sales**
+**Bar Chart: Holiday vs Non-Holiday Sales**
 
 Average weekly sales are higher during holidays, likely due to seasonal promotions and increased customer activity.
 
-**B. Store Data Visualizations
+**B. Store Data Visualizations**
 
-Scatterplot: Weekly Sales over Time**
+**Scatterplot: Weekly Sales over Time**
 
 Shows sales spikes during holiday periods
 
