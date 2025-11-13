@@ -88,7 +88,7 @@ After including this lag feature:
 * statsmodels
 * kagglehub
 
-**Key Outcomes**
+# Key Outcomes
 * Built multiple regression models to evaluate predictors
 * Added a 3-week lag that boosted accuracy from near-zero to ~83%
 * Conducted full exploratory analysis with visualizations
