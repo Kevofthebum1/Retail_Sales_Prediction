@@ -5,6 +5,7 @@ It was completed as part of The Build Fellowship (Sept–Oct 2025) under the men
 
 # Data Source
 The data used in this project comes from the Kaggle dataset:
+
 **Retail Dataset — manjeetsingh/retaildataset**
 
 It includes:
@@ -20,11 +21,15 @@ The dataset was downloaded programmatically using ```kaggle```.
 # 1. Exploratory Data Analysis
 
 **A. Sales Data Visualization
+
 Bar Chart: Holiday vs Non-Holiday Sales**
+
 Average weekly sales are higher during holidays, likely due to seasonal promotions and increased customer activity.
 
 **B. Store Data Visualizations
+
 Scatterplot: Weekly Sales over Time**
+
 Shows sales spikes during holiday periods
 
 # 2. Relationship in the Data
